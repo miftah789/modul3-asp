@@ -453,7 +453,6 @@ namespace asp_mvc_2.Models.EntityManager
                         dbContextTransaction.Commit();
 
                     }
-
                     catch
                     {
 
